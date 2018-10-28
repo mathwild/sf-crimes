@@ -1,4 +1,4 @@
-Worked conjointly on this project with clemonster
+Worked cojointly on this project with clemonster
 
 # sf-crimes
 Data exploration, visualisations and model fitting on San Francisco crime data from 2003 to 2014. 
